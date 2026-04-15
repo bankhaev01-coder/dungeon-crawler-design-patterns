@@ -1,0 +1,24 @@
+# Папка сборки CMake
+build/
+cmake-build-*/
+
+# Объектные файлы и библиотеки
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.exe
+
+# Файлы Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Файлы macOS
+.DS_Store
+
+# Временные файлы
+*.log
+*.tmp
